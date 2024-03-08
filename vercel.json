@@ -1,6 +1,6 @@
 {
   "redirects": [
-    {       "source": "/",       "destination": "/us",       "permanent": true     }, {       "source": "/register",       "destination": "/us-register",       "permanent": true     }
+    {       "source": "/",       "destination": "/us",       "permanent": true     }
   ],
   "rewrites": [
     {
